@@ -1,0 +1,343 @@
+{
+    "version": "1.0",
+    "page_list": [
+        {
+            "page_id": 1,
+            "page_width": 576,
+            "page_height": 792,
+            "text_list": [
+                {
+                    "bbox": {
+                        "x1": 27.504,
+                        "y1": 105.324793,
+                        "x2": 240.88221700000008,
+                        "y2": 179.41479300000003
+                    },
+                    "text": "Seoul Guarantee Insurance Company\nReinsurance Accounting Dept.\nSeoul Guarantee Insurance Building                \n136-74 Yon-ji dong                                \nJong-ro gu                                        \nSeoul\nKOREA, REPUBLIC OF\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 20.016,
+                        "y1": 205.33679299999994,
+                        "x2": 84.919886,
+                        "y2": 213.33579299999997
+                    },
+                    "text": "Coverage Details\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 20.016,
+                        "y1": 221.03279299999997,
+                        "x2": 86.68766499999998,
+                        "y2": 274.031793
+                    },
+                    "text": "Contract With:\nName:\nPeriod:\nLimit:\nRetention:\nLine of Business:\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 118.944,
+                        "y1": 221.03279299999997,
+                        "x2": 302.097103,
+                        "y2": 274.031793
+                    },
+                    "text": "Ayalon Insurance Company Limited\nGeneral Liability XL - Lyr 3- NIS 21M XS NIS 20.8M\n01 Jan 2022 through 31 Dec 2022\nILS 21,000,000.00\nILS 20,800,000.00\nCasualty\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 20.016,
+                        "y1": 296.268793,
+                        "x2": 130.70677500000002,
+                        "y2": 308.267793
+                    },
+                    "text": "Transaction Details\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 20.016,
+                        "y1": 318.44879299999997,
+                        "x2": 142.272716,
+                        "y2": 326.447793
+                    },
+                    "text": "Deposit Premium at 01 Jan 2022\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 27.504,
+                        "y1": 342.136793,
+                        "x2": 88.840332,
+                        "y2": 350.13579300000004
+                    },
+                    "text": "Deposit Premium\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 27.504,
+                        "y1": 375.616793,
+                        "x2": 114.64510600000001,
+                        "y2": 383.615793
+                    },
+                    "text": "Brokerage / Fee Amount\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 247.968,
+                        "y1": 375.616793,
+                        "x2": 328.56592399999994,
+                        "y2": 383.615793
+                    },
+                    "text": "(35,914.70 @ 10.00%)\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 20.016,
+                        "y1": 397.864793,
+                        "x2": 206.704661,
+                        "y2": 405.86379300000004
+                    },
+                    "text": "Net Due To Seoul Guarantee Insurance Company\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 366.912,
+                        "y1": 104.38879299999996,
+                        "x2": 555.999273,
+                        "y2": 165.23079300000006
+                    },
+                    "text": "Deposit Premium\nAt 01 Jan 2022\nILS 32,323.22 Cr\nBalance Due To Seoul Guarantee Insurance \nCompany\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 417.6,
+                        "y1": 171.42479300000002,
+                        "x2": 464.282164,
+                        "y2": 188.42379300000005
+                    },
+                    "text": "Invoice No:\nInvoice Date:\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 511.992,
+                        "y1": 171.42479300000002,
+                        "x2": 556.0675520000001,
+                        "y2": 188.42379300000005
+                    },
+                    "text": "10351482\n22 Jan 2022\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 359.496,
+                        "y1": 205.33679299999994,
+                        "x2": 444.38938699999994,
+                        "y2": 213.33579299999997
+                    },
+                    "text": "Reference Information\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 359.496,
+                        "y1": 221.03279299999997,
+                        "x2": 408.377889,
+                        "y2": 247.031793
+                    },
+                    "text": "UMR:\nYour Ref No:\nOur Ref No:\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 435.96,
+                        "y1": 221.03279299999997,
+                        "x2": 525.316829,
+                        "y2": 247.031793
+                    },
+                    "text": "B087522AHF5125\nTBA\nAHF-5125E1-2201C-8Y4\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 411.048,
+                        "y1": 327.44879299999997,
+                        "x2": 431.501443,
+                        "y2": 335.447793
+                    },
+                    "text": "100%\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 384.768,
+                        "y1": 342.136793,
+                        "x2": 431.466162,
+                        "y2": 350.13579300000004
+                    },
+                    "text": "1,197,156.50\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 473.328,
+                        "y1": 296.268793,
+                        "x2": 552.005443,
+                        "y2": 308.267793
+                    },
+                    "text": "Currency: ILS\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 484.056,
+                        "y1": 318.44879299999997,
+                        "x2": 556.084999,
+                        "y2": 335.447793
+                    },
+                    "text": "3.00%\nof a 100.00% Order\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 509.688,
+                        "y1": 342.136793,
+                        "x2": 555.9302190000001,
+                        "y2": 350.13579300000004
+                    },
+                    "text": "35,914.70 Cr\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 514.152,
+                        "y1": 375.616793,
+                        "x2": 555.9467750000001,
+                        "y2": 383.615793
+                    },
+                    "text": "3,591.48 Dr\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 509.328,
+                        "y1": 397.864793,
+                        "x2": 556.018163,
+                        "y2": 405.86379300000004
+                    },
+                    "text": "32,323.22 Cr\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 20.016,
+                        "y1": 447.47279299999997,
+                        "x2": 82.696164,
+                        "y2": 455.471793
+                    },
+                    "text": "Premium Details\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 20.016,
+                        "y1": 463.744793,
+                        "x2": 69.353832,
+                        "y2": 504.71979300000004
+                    },
+                    "text": "Currency:\nTotal:\nInstallments:\nType:\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 92.016,
+                        "y1": 463.744793,
+                        "x2": 153.352332,
+                        "y2": 504.71979300000004
+                    },
+                    "text": "ILS\n2,394,313.00\n2\nDeposit Premium\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 264.096,
+                        "y1": 463.744793,
+                        "x2": 308.123666,
+                        "y2": 493.703793
+                    },
+                    "text": "Due Date\n01 Jan 2022\n01 Jul 2022\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 336.456,
+                        "y1": 463.744793,
+                        "x2": 379.16355200000004,
+                        "y2": 493.703793
+                    },
+                    "text": "Invoice No.\n10351482\n10351483\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 433.872,
+                        "y1": 463.744793,
+                        "x2": 480.22022200000004,
+                        "y2": 504.71979300000004
+                    },
+                    "text": "Net Due\n32,323.22 Cr\n32,323.22 Cr\n64,646.44 Cr\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 20.016,
+                        "y1": 561.448793,
+                        "x2": 189.250494,
+                        "y2": 569.447793
+                    },
+                    "text": "Forwarded To: Reinsurance Accounting Dept.\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 300.528,
+                        "y1": 561.448793,
+                        "x2": 332.963945,
+                        "y2": 569.447793
+                    },
+                    "text": "Contact:\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 354.528,
+                        "y1": 561.448793,
+                        "x2": 450.212038,
+                        "y2": 578.447793
+                    },
+                    "text": "Rob Jarvis\nEMEA.Premium@aon.com\n"
+                },
+                {
+                    "bbox": {
+                        "x1": 92.448,
+                        "y1": 702.23,
+                        "x2": 483.342,
+                        "y2": 740.91
+                    },
+                    "text": "Aon UK Limited trading as Aon \nRegistered Office: The Aon Centre | The Leadenhall Building | 122 Leadenhall Street | London | EC3V 4AN \nRegistered in England & Wales No 210725 | VAT Registration No 480 8401 48 \nAon UK Limited is authorised and regulated by the Financial Conduct Authority \nCorrespondence Address: Aon | PO Box 730 | REDHILL | RH1 9FH | t +44 (0)20 7088 0044 | f +44 (0)20 7578 7001 | aon.com \n"
+                },
+                {
+                    "bbox": {
+                        "x1": 515.088,
+                        "y1": 743.824793,
+                        "x2": 556.002885,
+                        "y2": 751.823793
+                    },
+                    "text": "Page 1 of 2\n"
+                }
+            ]
+        },
+        {
+            "page_id": 2,
+            "page_width": 576,
+            "page_height": 792,
+            "text_list": [
+                {
+                    "bbox": {
+                        "x1": 92.448,
+                        "y1": 702.23,
+                        "x2": 483.342,
+                        "y2": 740.91
+                    },
+                    "text": "Aon UK Limited trading as Aon \nRegistered Office: The Aon Centre | The Leadenhall Building | 122 Leadenhall Street | London | EC3V 4AN \nRegistered in England & Wales No 210725 | VAT Registration No 480 8401 48 \nAon UK Limited is authorised and regulated by the Financial Conduct Authority \nCorrespondence Address: Aon | PO Box 730 | REDHILL | RH1 9FH | t +44 (0)20 7088 0044 | f +44 (0)20 7578 7001 | aon.com \n"
+                },
+                {
+                    "bbox": {
+                        "x1": 515.088,
+                        "y1": 743.824793,
+                        "x2": 556.002885,
+                        "y2": 751.823793
+                    },
+                    "text": "Page 2 of 2\n"
+                }
+            ]
+        }
+    ]
+}
