@@ -80,7 +80,7 @@ print(json_data)
 
 json_path = f'data/json_result/{filename}.json'
 with open(json_path, 'w', encoding='UTF8') as json_file:
-    json_file.write(json_data)
+    json_file.write(json_data) # json데이터를 파일에 쓰기
 
 colors = {'blue': (255, 0, 0), 'green': (0, 255, 0), 'red': (0, 0, 255), 'yellow': (0, 255, 255),
           'magenta': (255, 0, 255), 'cyan': (255, 255, 0), 'white': (255, 255, 255), 'black': (0, 0, 0),
@@ -105,4 +105,5 @@ for index, page in enumerate(pdf_data['page_list']):
     print(f"data/pdf_images/{filename}/page{page['page_id']}.png")
     pdf_images_path = f"data/pdf_images/{filename}"
     os.makedirs(pdf_images_path, exist_ok=True)
+    # 이미지를 data/pdf_images폴더에 쓰기
     cv2.imwrite(f"{pdf_images_path}/page{page['page_id']}.png", image)
